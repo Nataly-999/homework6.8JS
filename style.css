@@ -9,7 +9,7 @@ header {
     align-items: center;
     justify-content: center;
     height: 500px;
-    background: url('../HW/images/homework.jpg') bottom no-repeat;
+    background: url('./images/homework.jpg') bottom no-repeat;
     background-size: cover;
 }
 

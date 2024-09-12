@@ -1,0 +1,39 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    margin: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 500px;
+    background: url('../HW/images/homework.jpg') bottom no-repeat;
+    background-size: cover;
+}
+
+h1 {
+    margin: 0;
+    color: #6534aa;
+    font-size: 4rem;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.tasks {
+    margin: 0;
+    color: #6534aa;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+footer {
+    margin: 0;
+    padding-top: 20px;
+    padding-bottom: 60px;
+    text-align: center;
+    color: #6534aa;
+}
+
+html {
+    background-color: beige;
+}

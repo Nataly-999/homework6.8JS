@@ -1,0 +1,33 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    margin: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 200px;
+    background-size: cover;
+    background-color: beige;
+}
+
+h1 {
+    color: #127ed1;
+    font-size: 4rem;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+footer {
+    padding-top: 300px;
+    padding-bottom: 60px;
+    text-align: center;
+    color: #127ed1;
+}
+
+#LinkTextField {
+    color: #127ed1;
+    font-size: 30px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; 
+}
